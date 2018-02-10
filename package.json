@@ -1,0 +1,24 @@
+{
+  "name": "express-server-typescript",
+  "version": "0.0.1",
+  "description": "server express with typescript",
+  "main": "dist/out-tsc/index.js",
+  "scripts": {
+    "start": "node dist/out-tsc/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrayanArrieta/express-server-typescript.git"
+  },
+  "author": "BrayanArrieta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrayanArrieta/express-server-typescript/issues"
+  },
+  "homepage": "https://github.com/BrayanArrieta/express-server-typescript#readme",
+  "dependencies": {
+    "@types/express": "^4.11.1",
+    "express": "^4.16.2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "compileOnSave": false,
+  "compilerOptions": {
+    "watch": true,
+    "module": "commonjs",
+    "removeComments": true,
+    "rootDir": "src",
+    "noImplicitAny": true,
+    "outDir": "./dist/out-tsc",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es5",
+    "lib": [
+      "es2017",
+      "dom"
+    ]
+
+  }
+}
