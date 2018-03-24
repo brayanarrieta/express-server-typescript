@@ -35,7 +35,7 @@ npm start
 
 * **Brayan Arrieta**
 
-See also the list of [contributors](https://github.com/BrayanArrieta/ClientApp/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/BrayanArrieta/express-server-typescript/contributors) who participated in this project.
 
 ## License
 This project is licensed under the ISC License
